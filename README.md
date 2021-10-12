@@ -8,7 +8,7 @@ Problem:
 Solution
   1. using Xmanager. However it is a paid software233333.
   2. using Mobaxterm. It is work, but slowly.
-  3. using Anydesk. It is the best choice.
+  3. using Anydesk. It is the best choice. 
   
 
 ## Install a virtual desktop
@@ -23,12 +23,12 @@ Solution
     Connect
 
 ## Anydesk
-  1.Install anydesk. For archlinux: https://aur.archlinux.org/packages/anydesk-bin/
-  2.Get the Computer ID
+  1.Install anydesk. For archlinux: https://aur.archlinux.org/packages/anydesk-bin/ 
+  2.Get the Computer ID 
     cat /etc/anydesk/system.conf
-  3. Set the connect password. password is your password
+  3. Set the connect password. password is your password 
     echo password | sudo anydesk --set-password
-  4. Download a client in PC. Connect it.
+  4. Download a client in PC. Connect it. 
 
 
 Over.
